@@ -4,15 +4,14 @@ This repository serves as a portfolio showcasing projects I am completing as par
 
 # Projects
 
-## 1. String Handling
+### 1. String Handling
 
 **Description:** Performs a variety of string handling tasks.
 
 **File:** [String_handling_github.ipynb](String_handling_github.ipynb)
 
----
 
-## 2. Finance Calculator
+### 2. Finance Calculator
 
 **Description:** Calculates returns on investment based on user inputs. Calculates monthly loan repayments based on user inputs.
 
