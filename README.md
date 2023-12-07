@@ -2,15 +2,20 @@
 
 This repository serves as a portfolio showcasing projects I am completing as part of a skills bootcamp. This is a work in progress and I will upload projects/tasks as I progress through the bootcamp.
 
-Projects
-1. String Handling
-Description: Performs a variety of string handling tasks.
+# Projects
 
-File: String_handling_github.ipynb
+## 1. String Handling
 
-2. Finance Calculator
-Description: Calculates returns on investment based on user inputs. Calculates monthly loan repayments based on user inputs.
+**Description:** Performs a variety of string handling tasks.
 
-File: finance_calculator.py (planning to turn into a Jupyter notebook)
+**File:** [String_handling_github.ipynb](path/to/String_handling_github.ipynb)
 
+---
 
+## 2. Finance Calculator
+
+**Description:** Calculates returns on investment based on user inputs. Calculates monthly loan repayments based on user inputs.
+
+**File:** [finance_calculator.py](path/to/finance_calculator.py) (planning to turn into a Jupyter notebook)
+
+---
