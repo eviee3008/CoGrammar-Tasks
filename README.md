@@ -10,7 +10,7 @@ This repository serves as a portfolio showcasing projects I am completing as par
 
 **File:** [String_handling_github.ipynb](String_handling_github.ipynb)
 
-
+---
 
 ### 2. Finance Calculator
 
