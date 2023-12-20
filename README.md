@@ -16,6 +16,6 @@ This repository serves as a portfolio showcasing projects I am completing as par
 
 **Description:** Calculates returns on investment based on user inputs. Calculates monthly loan repayments based on user inputs.
 
-**File:** [finance_calculators.py](finance_calculators.py) (planning to turn into a Jupyter notebook)
+**File:** [Finance_calc_github.ipynb](Finance_calc_github.ipynb)
 
 ---
