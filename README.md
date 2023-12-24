@@ -19,3 +19,9 @@ This repository serves as a portfolio showcasing projects I am completing as par
 **File:** [Finance_calc_github.ipynb](Finance_calc_github.ipynb)
 
 ---
+
+### 3. Dataset Report
+
+**Description:** An example of how pandas can be used to manipulate data. A number of questions related to a dataset are asked and answered in this report.
+
+**File:** [Dataset_report.ipynb](Dataset_report.ipynb)
