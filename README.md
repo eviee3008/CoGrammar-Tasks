@@ -26,6 +26,8 @@ This repository serves as a portfolio showcasing projects I am completing as par
 
 **File:** [Dataset_report.ipynb](Dataset_report.ipynb)
 
+---
+
 ### 4. Boston Housing Report
 
 **Description:** An Exploratory Data Analysis into a dataset related to housing in Boston, USA. This uses the dataset used in task 13, but goes beyond the tasks set out.
