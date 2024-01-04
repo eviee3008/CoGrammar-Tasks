@@ -25,3 +25,9 @@ This repository serves as a portfolio showcasing projects I am completing as par
 **Description:** An example of how pandas can be used to manipulate data. A number of questions related to a dataset are asked and answered in this report.
 
 **File:** [Dataset_report.ipynb](Dataset_report.ipynb)
+
+### 4. Boston Housing Report
+
+**Description:** An Exploratory Data Analysis into a dataset related to housing in Boston, USA. This uses the dataset used in task 13, but goes beyond the tasks set out.
+
+**File:** [boston_housing_report.ipynb](Boston_housing_report.ipynb)
