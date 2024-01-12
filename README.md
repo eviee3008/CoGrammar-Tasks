@@ -8,7 +8,7 @@ This repository serves as a portfolio showcasing projects I am completing as par
 
 **Description:** Performs a variety of string handling tasks.
 
-**File:** [String_handling_github.ipynb](String Handling/String_handling_github.ipynb)
+**File:** [String_handling_github.ipynb](String Handling)
 
 ---
 
