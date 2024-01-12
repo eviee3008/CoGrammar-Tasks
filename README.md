@@ -8,7 +8,7 @@ This repository serves as a portfolio showcasing projects I am completing as par
 
 **Description:** Performs a variety of string handling tasks.
 
-**File:** [String_handling_github.ipynb](String Handling/String_handling_github.ipynb)
+**File:** [String_handling_github.ipynb](String_Handling/String_handling_github.ipynb)
 
 ---
 
@@ -16,7 +16,7 @@ This repository serves as a portfolio showcasing projects I am completing as par
 
 **Description:** Calculates returns on investment based on user inputs. Calculates monthly loan repayments based on user inputs.
 
-**File:** [Finance_calc_github.ipynb](Finance_calc_github.ipynb)
+**File:** [Finance_calc_github.ipynb](Finance_Calculator/Finance_calc_github.ipynb)
 
 ---
 
@@ -25,7 +25,7 @@ This repository serves as a portfolio showcasing projects I am completing as par
 **Description:** An example of how pandas can be used to manipulate data. A number of questions related to a dataset are asked and answered in this report.
 
 **Files:** 
-- [Dataset_report.ipynb](Dataset_report.ipynb)
+- [Dataset_report.ipynb](Dataset_Report/Dataset_report.ipynb)
 - [balance.txt](balance.txt)
 
 ---
@@ -35,7 +35,7 @@ This repository serves as a portfolio showcasing projects I am completing as par
 **Description:** An Exploratory Data Analysis into a dataset related to housing in Boston, USA. This uses the dataset used in task 13, but goes beyond the tasks set out.
 
 **Files:** 
-- [boston_housing_report.ipynb](Boston_housing_report.ipynb)
+- [boston_housing_report.ipynb](Boston_Housing_Report/Boston_housing_report.ipynb)
 - [housing.csv](housing.csv)
 
 ---
@@ -45,5 +45,5 @@ This repository serves as a portfolio showcasing projects I am completing as par
 **Description:** An Exploratory Data Analysis into a dataset from the OECD on gender wage gaps in different countries. This uses the dataset used in task 13, but goes beyond the tasks set out.
 
 **Files:**
-- [Gender_wagegap_report.ipynb](Gender_wagegap_report.ipynb)
+- [Gender_wagegap_report.ipynb](Gender_wage_gap_report/Gender_wagegap_report.ipynb)
 - [GENDER_EMP.csv](GENDER_EMP.csv)
